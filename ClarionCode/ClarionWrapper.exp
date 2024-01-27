@@ -1,0 +1,4 @@
+LIBRARY 'ClarionWrapper' GUI
+EXPORTS
+     CallDotNetProcedure @?
+       
